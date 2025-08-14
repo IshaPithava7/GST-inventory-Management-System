@@ -1,0 +1,5 @@
+<?php
+
+
+define('ERROR_MSG', "SOMETHING WENT WRONG");
+define('SUCCESS_MSG', "SUCCESSFULLY DONE");
